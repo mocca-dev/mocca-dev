@@ -1,6 +1,6 @@
 ## Greetings! I am Nicolás and I am a Front End Developer.
 
-### I like create web applications with exciting stuff such as JavaScript, CSS, HTML, ReactJS and much more...
+### I like to create web applications with exciting stuff such as JavaScript, CSS, HTML, ReactJS and much more...
 
 <div align="center">
   <div style="padding: 30px 0">
