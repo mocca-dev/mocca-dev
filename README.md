@@ -2,6 +2,8 @@
 
 ### I like to create web applications with exciting stuff such as JavaScript, CSS, HTML, ReactJS and much more...
 
+If you want to see examples of my work you can click <a href="https://github.com/stars/mocca-dev/lists/portfolio">here</a> and take a look to some of my projects.
+
 <div align="center">
   <div style="padding: 30px 0">
     <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -16,8 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/mocca-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mocca-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocca-dev&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mocca-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocca-dev&layout=compact&langs_count=7&theme=dark" />
 </div>
   
 ##
